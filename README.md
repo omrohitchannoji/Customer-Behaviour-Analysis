@@ -132,10 +132,11 @@ Store database credentials in environment variables for security
 Omrohit Channoji
 📧 omrohitchannoji7@gmail.com
 
-🌐 https://github.com/your-username
+🌐 https://github.com/omrohitchannoji
 
 🏁 Summary
 
 Customer Behaviour Analysis showcases how Python and SQL can work together to automate data ingestion and enable deep business insights.
 This project demonstrates strong skills in data engineering, database integration, and analytics — essential for real-world data science workflows.
+
 
