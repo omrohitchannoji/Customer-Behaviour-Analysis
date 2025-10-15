@@ -138,3 +138,4 @@ Omrohit Channoji
 
 Customer Behaviour Analysis showcases how Python and SQL can work together to automate data ingestion and enable deep business insights.
 This project demonstrates strong skills in data engineering, database integration, and analytics — essential for real-world data science workflows.
+
