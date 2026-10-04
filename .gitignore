@@ -1,0 +1,38 @@
+# Explicit exclusions per user directive:
+# Do not commit .py, sql, csv, or CHANGES.md files
+*.py
+src/
+tests/
+sql/
+*.sql
+*.csv
+Ecommerce/
+data/
+CHANGES.md
+
+# Environment & Credentials
+.env
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python cache & artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Database files & local reports
+*.db
+*.sqlite
+*.sqlite3
+scratch/
+reports/
+
+# IDE files
+.vscode/
+.idea/
